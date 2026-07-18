@@ -4,11 +4,12 @@ class Config:
     """
 
     # Konfigurasi Database MySQL
-    hostname = "4zddb8.h.filess.io"
-    database = "db_academic_oldermudat"
-    port = "61000"
-    username = "db_academic_oldermudat"
-    password = "f72d92dc0ea847de31f1bac2fb31f9bd05323932"
+    HOST = "j0wko7.h.filess.io"
+    PORT = 3307
+    USER = "db_academic_changehas"
+    PASSWORD = "eb147588d7f68a79b4c37666ab3efd294e76bf84"
+    DATABASE = "db_academic_changehas"
+
 
     # Secret Key Flask
     SECRET_KEY = "praktikum-flask-2026"
